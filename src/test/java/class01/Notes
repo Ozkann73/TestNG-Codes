@@ -1,0 +1,7 @@
+testNG :
+ Test is a tool, it can be used to unit test, integration test etc.
+
+Annotations :
+ 1) @Test
+ All the test cases must be written down under the annotation of "@Test"
+
