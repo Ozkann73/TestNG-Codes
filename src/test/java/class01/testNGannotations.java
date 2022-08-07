@@ -15,7 +15,7 @@ public class testNGannotations {
         System.out.println("Hey I am the first test case");
     }
 
-    @Test
+    @Test(groups =" smoke")
     public void secondTestCase(){
         System.out.println("I am the second test case");
     }
